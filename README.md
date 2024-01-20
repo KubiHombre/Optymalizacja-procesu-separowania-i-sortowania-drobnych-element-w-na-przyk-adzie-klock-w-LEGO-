@@ -1,2 +1,2 @@
-# Optymalizacja-procesu-separowania-i-sortowania-drobnych-element-w-na-przyk-adzie-klock-w-LEGO-
+# Optymalizacja procesu separowania i sortowania drobnych elementów na przykładzie klocków LEGO
 Projekt grupowy...
