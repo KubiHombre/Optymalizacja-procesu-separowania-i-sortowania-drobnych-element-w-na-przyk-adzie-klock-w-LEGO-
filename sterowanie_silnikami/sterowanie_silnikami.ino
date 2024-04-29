@@ -12,11 +12,8 @@ void setup() {
 
 // Loop to keep the motor turning!
 void loop() {
-  int n = 90;
-  int p1 = 40;
-  int p2 = 140;
-  myservo.write(p1);
-  delay(2000);
-  myservo.write(p2);
-  delay(2000);
+  myservo.write(180); // rotate the motor counter-clockwise
+  //delay(2000); // keep rotating for 5 seconds (5000 milliseconds)
+  //myservo.write(-90);
+  //delay(2000); // keep rotating 😀
 }
